@@ -8,5 +8,5 @@ data.R - Preparing the data from 2 different source files.
 ui.R - initializing the ui structure.
 app.R - contains both visualization structure and the logic for the dashboard elements.
  
-![PRSM Snapshot](/images/snap.png)
+![PRSM Snapshot](/prism.png)
 
